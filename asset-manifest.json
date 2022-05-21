@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/localstorage/static/css/main.41ac3094.css",
+    "main.js": "/localstorage/static/js/main.d783042f.js",
+    "index.html": "/localstorage/index.html",
+    "main.41ac3094.css.map": "/localstorage/static/css/main.41ac3094.css.map",
+    "main.d783042f.js.map": "/localstorage/static/js/main.d783042f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41ac3094.css",
+    "static/js/main.d783042f.js"
+  ]
+}
